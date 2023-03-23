@@ -23,6 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ##  💻 Projeto
 O projeto _Dashboard Sales_ foi realizado como  parte de um desafio  e feito em conjunto com as aulas da RocketSeat sugerido pelo professor <a href="https://github.com/maykbrito" alt="Link para o GitHub do professor Mayk Brito" target="_blank ">Mayk Brito</a>.
 
-##  🔖Layout
+##  🔖 Layout
 
 Você pode visualizar o layout proposto pela RocketSeat através do [ LINK ](https://www.figma.com/community/file/1210217615683203825). É necessário ter conta no [ Figma ](https://figma.com) para acessá-lo.
