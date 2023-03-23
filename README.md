@@ -7,7 +7,7 @@ Criação de um painel de vendas  realizado a partir de um desafio da RocketSeat
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>     |
   <a href="#-projeto">Projeto</a>     |
-  <a href="#-layout">Layout</a>     |    
+  <a href="#-layout">Layout</a>     | 
 </p>
 
 <br>
